@@ -1,0 +1,25 @@
+.corps-info {
+    margin-inline: 120px;
+    margin-block: 60px;
+}
+
+.corps-info h5{
+    font-size: 26px;
+}
+
+.corps-info h6, .corps-info h5{
+    font-weight: 600;
+}
+
+.corps-info h6, .corps-info h5, .corps-info p{
+    font-style: normal;
+    line-height: 110%;
+}
+
+.corps-info h6, .corps-info p{
+    font-size: 24px;
+}
+
+.corps-info p{
+    font-weight: 400;
+}
